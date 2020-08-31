@@ -1,0 +1,676 @@
+<p fr-original-style="" style="margin-top: 0px; margin-bottom: 10px; font-size: 13px; box-sizing: border-box; color: rgb(24, 44, 64);">Letter Demo</p>
+
+<table width="100%" cellpadding="0" cellspacing="0" fr-original-style="" fr-original-class="wrapper all-font-sans" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;"></table>
+
+<table fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;">
+	<tbody fr-original-style="" style="box-sizing: border-box;">
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td fr-original-style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" style="visibility: hidden; font-size: 1px; color: rgb(255, 255, 255); line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; display: none !important; min-width: 5px; box-sizing: border-box; user-select: text;">undefined | Made with ❤ in Letter.so</td>
+		</tr>
+	</tbody>
+</table>
+<div fr-original-style="background-color: rgb(247, 247, 247);" style="background-color: rgb(247, 247, 247); box-sizing: border-box;">
+	<br fr-original-style="" style="box-sizing: border-box;">
+</div>
+
+<table width="600" cellpadding="0" cellspacing="0" fr-original-style="" fr-original-class="sm-w-full" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;"></table>
+
+<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" fr-original-class="all-font-sans sm-w-full" fr-original-style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px;" style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="600">
+	<tbody fr-original-style="" style="box-sizing: border-box;">
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td align="center" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;" width="100%">
+
+				<table cellpadding="0" cellspacing="0" fr-original-class="sm-w-full" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="600">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="center" fr-original-style="padding-left: 24px; padding-right: 24px; padding-top: 40px; padding-bottom: 8px;" style="padding: 40px 24px 8px; min-width: 5px; box-sizing: border-box; user-select: text;">
+								<a fr-original-style="text-decoration: none;" href="#" style="text-decoration: none; color: rgb(24, 144, 255); background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img src="https://s3-us-west-1.amazonaws.com/tinify-bucket/%2Fprototypr%2Ftemp%2F1580577924294-Group+74.png" alt="Logo" width="130" style="border: 0px; line-height: 100%; cursor: pointer; max-width: 100%; box-sizing: border-box;" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+						</tr>
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td fr-original-style="line-height: 14px;" height="14" style="line-height: 14px; min-width: 5px; box-sizing: border-box; user-select: text;">‌</td>
+						</tr>
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="center" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;"><a fr-original-style="color: #4a5568; text-decoration: none;" href="http://example.com" style="color: rgb(74, 85, 104); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Home</a> <span fr-original-class="sm-px-0" fr-original-style="padding-left: 3px; padding-right: 3px;" style="padding-left: 3px; padding-right: 3px; box-sizing: border-box;">&nbsp;</span> <a fr-original-style="color: #4a5568; text-decoration: none;" href="http://example.com" style="color: rgb(74, 85, 104); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Templates</a> <span fr-original-class="sm-px-0" fr-original-style="padding-left: 3px; padding-right: 3px;" style="padding-left: 3px; padding-right: 3px; box-sizing: border-box;">&nbsp;</span> <a fr-original-style="color: #4a5568; text-decoration: none;" href="http://example.com" style="color: rgb(74, 85, 104); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">News</a></td>
+						</tr>
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td fr-original-style="line-height: 40px;" height="40" style="line-height: 40px; min-width: 5px; box-sizing: border-box; user-select: text;">‌</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full all-font-sans" fr-original-style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px;" style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="600">
+	<tbody fr-original-style="" style="box-sizing: border-box;">
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td align="left" fr-original-class="sm-px-24" fr-original-style="background-position: top; background-repeat: no-repeat; background-size: cover; border-radius: 4px; text-align: left;" style="background-position: center top; background-repeat: no-repeat; background-size: cover; border-radius: 4px; text-align: left; min-width: 5px; box-sizing: border-box; user-select: text;">
+
+				<table align="center" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="504">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td fr-original-class="sm-h-32" fr-original-style="" height="64" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+								<br fr-original-style="" style="box-sizing: border-box;">
+							</td>
+						</tr>
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="center" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+								<p fr-original-style="margin: 0; margin-bottom: 4px; font-size: 14px;" style="margin: 0px 0px 4px; font-size: 14px; box-sizing: border-box; color: rgb(24, 44, 64);">Try it for free</p>
+
+								<h1 fr-original-class="sm-leading-40" fr-original-style="margin: 0; margin-bottom: 10px; font-size: 36px;" style="margin: 0px 0px 10px; font-size: 36px; color: rgba(0, 0, 0, 0.85); font-weight: 500; box-sizing: border-box;">Create Better Newsletters</h1>
+
+								<table cellpadding="0" cellspacing="0" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-style="padding-top: 12px; padding-bottom: 30px;" style="padding-top: 12px; padding-bottom: 30px; min-width: 5px; box-sizing: border-box; user-select: text;">
+												<a fr-original-style="" href="http://example.com/#1" style="color: rgb(24, 144, 255); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img src="https://s3-us-west-1.amazonaws.com/tinify-bucket/%2Fprototypr%2Ftemp%2F1581726764085-1581726764085.png" width="504" style="border: 0px; line-height: 100%; border-radius: 4px; max-width: calc(100% - 10px); text-align: center; cursor: pointer; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; border-radius: 4px; display: inline-block; vertical-align: bottom; margin-right: 5px; margin-left: 5px; float: none; max-width: calc(100% - 10px); text-align: center;" fr-original-class="fr-fic fr-draggable" class="fr-fic fr-dii"></a></td>
+										</tr>
+									</tbody>
+								</table>
+
+								<p fr-original-style="line-height: 24px; margin: 0; font-size: 18px;" style="line-height: 24px; margin: 0px; font-size: 18px; box-sizing: border-box; color: rgb(24, 44, 64);">The email design tool where creativity meets automation. Letter automates the boring, repetitive tasks, so you can focus on creating great content.</p>
+								<div fr-original-class="sm-h-32" fr-original-style="line-height: 20px;" style="line-height: 20px; box-sizing: border-box;">‌</div>
+
+								<table cellpadding="0" cellspacing="0" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;">
+									<thead fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<th bgcolor="#000000" fr-original-style="mso-padding-alt: 16px 24px; border-radius: 4px;background:#000;" style="border-radius: 4px; background: rgb(0, 0, 0); text-align: inherit; box-sizing: border-box; user-select: text;"><a fr-original-style="display: block; font-weight: 600; line-height: 100%; padding-top: 16px; padding-bottom: 16px; padding-left: 24px; padding-right: 24px; color: #ffffff; font-size: 16px; text-decoration: none;" href="http://app.letter.so" style="display: block; font-weight: 600; line-height: 100%; padding: 16px 24px; color: rgb(255, 255, 255); font-size: 16px; text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Read more</a></th>
+										</tr>
+									</thead>
+								</table>
+							</td>
+						</tr>
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td fr-original-class="sm-h-32" fr-original-style="" height="64" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+								<a href="http://app.letter.so" fr-original-style="" style="background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"></a></td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" fr-original-class="all-font-sans sm-w-full sm-px-24" fr-original-style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px;" style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="600">
+	<tbody fr-original-style="" style="box-sizing: border-box;">
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;" width="100%">
+
+				<table cellpadding="0" cellspacing="0" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td fr-original-class="fr-block fr-inspector-selected" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+								<!--[if (gte mso 9)|(IE)]>
+			        <table width="600" align="center">
+				        <tr>
+					        <td width="300" align="left">
+					        <![endif]-->
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-px-0 sm-w-full" fr-original-style="padding-left:48px;padding-top: 30px; padding-bottom: 30px;" style="padding-left: 48px; padding-top: 30px; padding-bottom: 30px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="300">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+												<table align="center" cellpadding="0" cellspacing="0" fr-original-class="sm-pr-0 sm-w-3-5" fr-original-style="padding-right: 20px;" style="padding-right: 20px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;">
+													<tbody fr-original-style="" style="box-sizing: border-box;">
+														<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+															<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+																<a fr-original-style="text-decoration: none;" href="http://example.com/#1" style="text-decoration: none; color: rgb(24, 144, 255); background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img src="https://s3-us-west-1.amazonaws.com/tinify-bucket/%2Fprototypr%2Ftemp%2F1581726442044-1581726442044.png" width="230" style="border: 0px; line-height: 100%; border-radius: 4px; max-width: calc(100% - 10px); text-align: center; cursor: pointer; box-sizing: border-box;" fr-original-style="border: 0px; line-height: 100%; border-radius: 4px; display: inline-block; vertical-align: bottom; margin-right: 5px; margin-left: 5px; float: none; max-width: calc(100% - 10px); text-align: center;" fr-original-class="fr-fic fr-draggable" class="fr-fic fr-dii"></a></td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+								<!--[if mso]></td><td width="300" align="right"><![endif]-->
+
+								<table align="right" cellpadding="0" cellspacing="0" fr-original-class="sm-px-0  sm-w-full sm-pt-0 sm-pl-0" fr-original-style="padding-right:48px;padding-top: 30px; padding-bottom: 30px; padding-left: 20px; vertical-align: top;" style="padding: 30px 48px 30px 20px; vertical-align: top; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" valign="top" width="300">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-class="sm-text-center" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+												<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full" fr-original-style="vertical-align: top;" style="vertical-align: top; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" valign="top">
+													<tbody fr-original-style="" style="box-sizing: border-box;">
+														<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+															<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+																<table align="center" cellpadding="0" cellspacing="0" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;">
+																	<tbody fr-original-style="" style="box-sizing: border-box;">
+																		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+																			<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+																				<p fr-original-style="margin: 0; margin-bottom: 8px; color: #718096; font-size: 14px;" style="margin: 0px 0px 8px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;">14 Feb, 2020</p>
+
+																				<h2 fr-original-style="line-height: 26px; margin: 0; margin-bottom: 18px; font-size: 24px;" style="line-height: 26px; margin: 0px 0px 18px; font-size: 24px; color: rgba(0, 0, 0, 0.85); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #1a202c; text-decoration: none;" href="http://example.com/#1" style="color: rgb(26, 32, 44); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Import content in a few clicks.</a></h2>
+
+																				<p fr-original-style="line-height: 20px; margin: 0; margin-bottom: 24px; color: #2d3748; font-size: 16px;" style="line-height: 20px; margin: 0px 0px 24px; color: rgb(45, 55, 72); font-size: 16px; box-sizing: border-box;">Go from link to newsletter. Paste any URL and press import to fetch content.</p><a fr-original-class="hover-text-blue-400" fr-original-style="color: #4299e1; font-size: 16px; text-decoration: none;" href="http://twitter.com/letter_hq" style="color: rgb(66, 153, 225); font-size: 16px; text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Read more →</a></td>
+																		</tr>
+																	</tbody>
+																</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+								<!--[if (gte mso 9)|(IE)]>
+					        </td>
+				        </tr>
+			        </table>
+			        <![endif]--></td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" fr-original-class="all-font-sans sm-w-full sm-px-24" fr-original-style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px;" style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="600">
+	<tbody fr-original-style="" style="box-sizing: border-box;">
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;" width="100%">
+
+				<table cellpadding="0" cellspacing="0" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+								<!--[if (gte mso 9)|(IE)]>
+			        <table width="600" align="center">
+				        <tr>
+					        <td width="300" align="left">
+					        <![endif]-->
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-px-0 sm-w-full" fr-original-style="padding-left:48px;padding-top: 30px; padding-bottom: 30px;" style="padding-left: 48px; padding-top: 30px; padding-bottom: 30px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="300">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+												<table align="center" cellpadding="0" cellspacing="0" fr-original-class="sm-pr-0 sm-w-3-5" fr-original-style="padding-right: 20px;" style="padding-right: 20px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;">
+													<tbody fr-original-style="" style="box-sizing: border-box;">
+														<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+															<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+																<a fr-original-style="text-decoration: none;" href="http://example.com/#1" style="text-decoration: none; color: rgb(24, 144, 255); background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img src="https://s3-us-west-1.amazonaws.com/tinify-bucket/%2Fprototypr%2Ftemp%2F1581727008003-1581727008003.png" width="230" style="border: 0px; line-height: 100%; border-radius: 4px; max-width: calc(100% - 10px); text-align: center; cursor: pointer; box-sizing: border-box;" fr-original-style="border: 0px; line-height: 100%; border-radius: 4px; display: inline-block; vertical-align: bottom; margin-right: 5px; margin-left: 5px; float: none; max-width: calc(100% - 10px); text-align: center;" fr-original-class="fr-fic fr-draggable" class="fr-fic fr-dii"></a></td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+								<!--[if mso]></td><td width="300" align="right"><![endif]-->
+
+								<table align="right" cellpadding="0" cellspacing="0" fr-original-class="sm-px-0  sm-w-full sm-pt-0 sm-pl-0" fr-original-style="padding-right:48px;padding-top: 30px; padding-bottom: 30px; padding-left: 20px; vertical-align: top;" style="padding: 30px 48px 30px 20px; vertical-align: top; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" valign="top" width="300">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-class="sm-text-center" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+												<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full" fr-original-style="vertical-align: top;" style="vertical-align: top; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" valign="top">
+													<tbody fr-original-style="" style="box-sizing: border-box;">
+														<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+															<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+																<table align="center" cellpadding="0" cellspacing="0" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;">
+																	<tbody fr-original-style="" style="box-sizing: border-box;">
+																		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+																			<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+																				<p fr-original-style="margin: 0; margin-bottom: 8px; color: #718096; font-size: 14px;" style="margin: 0px 0px 8px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;">4 Feb, 2020</p>
+
+																				<h2 fr-original-style="line-height: 26px; margin: 0; margin-bottom: 18px; font-size: 24px;" style="line-height: 26px; margin: 0px 0px 18px; font-size: 24px; color: rgba(0, 0, 0, 0.85); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #1a202c; text-decoration: none;" href="http://example.com/#1" style="color: rgb(26, 32, 44); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Drag and drop components.</a></h2>
+
+																				<p fr-original-style="line-height: 20px; margin: 0; margin-bottom: 24px; color: #2d3748; font-size: 16px;" style="line-height: 20px; margin: 0px 0px 24px; color: rgb(45, 55, 72); font-size: 16px; box-sizing: border-box;">Drag and drop components onto the canvas from the menu on the left to build your newsletter.</p><a fr-original-class="hover-text-blue-400" fr-original-style="color: #4299e1; font-size: 16px; text-decoration: none;" href="https://twitter.com/letter_hq" style="color: rgb(66, 153, 225); font-size: 16px; text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Read more →</a></td>
+																		</tr>
+																	</tbody>
+																</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+								<!--[if (gte mso 9)|(IE)]>
+					        </td>
+				        </tr>
+			        </table>
+			        <![endif]--></td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" fr-original-class="all-font-sans sm-w-full sm-px-24" fr-original-style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px;" style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="600">
+	<tbody fr-original-style="" style="box-sizing: border-box;">
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;" width="100%">
+
+				<table cellpadding="0" cellspacing="0" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td dir="rtl" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+								<!--[if (gte mso 9)|(IE)]>
+			        <table width="600" align="center">
+				        <tr>
+					        <td width="300">
+					        <![endif]-->
+								<div dir="ltr" fr-original-style="display: inline; vertical-align: top; width:100%;" style="display: inline; vertical-align: top; width: 100%; box-sizing: border-box;">
+
+									<table align="right" cellpadding="0" cellspacing="0" fr-original-class="w-1-2 sm-w-full sm-px-0" fr-original-style="padding-top: 30px; padding-bottom: 30px;padding-right: 48px;" style="padding-top: 30px; padding-bottom: 30px; padding-right: 48px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="300">
+										<tbody fr-original-style="" style="box-sizing: border-box;">
+											<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+												<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+													<table align="center" cellpadding="0" cellspacing="0" fr-original-class="sm-w-3-5 sm-pl-0" fr-original-style="padding-left: 20px;" style="padding-left: 20px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;">
+														<tbody fr-original-style="" style="box-sizing: border-box;">
+															<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+																<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+																	<a fr-original-style="text-decoration: none;" href="http://example.com/#1" style="text-decoration: none; color: rgb(24, 144, 255); background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="230" src="https://s3-us-west-1.amazonaws.com/tinify-bucket/%2Fprototypr%2Ftemp%2F1581727106544-1581727106544.png" style="border: 0px; line-height: 100%; border-radius: 4px; max-width: calc(100% - 10px); text-align: center; cursor: pointer; box-sizing: border-box;" fr-original-style="border: 0px; line-height: 100%; border-radius: 4px; display: inline-block; vertical-align: bottom; margin-right: 5px; margin-left: 5px; float: none; max-width: calc(100% - 10px); text-align: center;" fr-original-class="fr-fic fr-draggable" class="fr-fic fr-dii"></a></td>
+															</tr>
+														</tbody>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+								<!--[if mso]></td><td width="300" align="right"><![endif]-->
+								<div dir="ltr" fr-original-style="display: inline; vertical-align: top; width:100%;" style="display: inline; vertical-align: top; width: 100%; box-sizing: border-box;">
+
+									<table align="left" cellpadding="0" cellspacing="0" fr-original-class="w-1-2 sm-w-full sm-pt-0 sm-pr-0 sm-px-0" fr-original-style="padding-top: 30px; padding-bottom: 30px;padding-left: 48px; vertical-align: top;" style="padding-top: 30px; padding-bottom: 30px; padding-left: 48px; vertical-align: top; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" valign="top" width="300">
+										<tbody fr-original-style="" style="box-sizing: border-box;">
+											<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+												<td fr-original-class="sm-text-center" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+													<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full" fr-original-style="vertical-align: top;" style="vertical-align: top; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" valign="top">
+														<tbody fr-original-style="" style="box-sizing: border-box;">
+															<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+																<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+																	<table align="center" cellpadding="0" cellspacing="0" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;">
+																		<tbody fr-original-style="" style="box-sizing: border-box;">
+																			<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+																				<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+																					<p fr-original-style="margin: 0; margin-bottom: 8px; color: #718096; font-size: 14px;" style="margin: 0px 0px 8px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;">4 Feb, 2020</p>
+
+																					<h2 fr-original-style="line-height: 26px; margin: 0; margin-bottom: 18px; font-size: 24px;" style="line-height: 26px; margin: 0px 0px 18px; font-size: 24px; color: rgba(0, 0, 0, 0.85); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #1a202c; text-decoration: none;" href="http://example.com/#1" style="color: rgb(26, 32, 44); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Export to code.</a></h2>
+
+																					<p fr-original-style="line-height: 20px; margin: 0; margin-bottom: 24px; color: #2d3748; font-size: 16px;" style="line-height: 20px; margin: 0px 0px 24px; color: rgb(45, 55, 72); font-size: 16px; box-sizing: border-box;">Press the export button in the top right, and choose one of the export option.</p><a fr-original-class="hover-text-blue-400" fr-original-style="color: #4299e1; font-size: 16px; text-decoration: none;" href="http://example.com/#1" style="color: rgb(66, 153, 225); font-size: 16px; text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Read more →</a></td>
+																			</tr>
+																		</tbody>
+																	</table>
+																</td>
+															</tr>
+														</tbody>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+								<!--[if (gte mso 9)|(IE)]>
+					        </td>
+				        </tr>
+			        </table>
+			        <![endif]--></td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#000000" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full all-font-sans" fr-original-style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px;" style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="600">
+	<tbody fr-original-style="" style="box-sizing: border-box;">
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td align="left" background="https://images.unsplash.com/photo-1547954575-855750c57bd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" fr-original-class="sm-px-24" fr-original-style="background-image: url('https://images.unsplash.com/photo-1547954575-855750c57bd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60'); background-position: top; background-repeat: no-repeat; background-size: cover; border-radius: 4px; text-align: left;" style='background-image: url("https://images.unsplash.com/photo-1547954575-855750c57bd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"); background-position: center top; background-repeat: no-repeat; background-size: cover; border-radius: 4px; text-align: left; min-width: 5px; box-sizing: border-box; user-select: text;'>
+				<!--[if mso]>
+        <v:image src="https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1430&q=80" xmlns:v="urn:schemas-microsoft-com:vml" style="width:600px;height:400px;" />
+        <v:rect fill="false" stroke="false" style="position:absolute;width:600px;height:400px;">
+        <div><![endif]-->
+
+				<table align="center" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="504">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td fr-original-class="sm-h-32" fr-original-style="" height="64" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+								<br fr-original-style="" style="box-sizing: border-box;">
+							</td>
+						</tr>
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="center" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+								<p fr-original-style="margin: 0; margin-bottom: 4px; color: #ffffff; font-size: 14px;" style="margin: 0px 0px 4px; color: rgb(255, 255, 255); font-size: 14px; box-sizing: border-box;">2 Feb, 2020</p>
+
+								<h1 fr-original-class="sm-leading-40" fr-original-style="margin: 0; margin-bottom: 16px; color: #ffffff; font-size: 36px;" style="margin: 0px 0px 16px; color: rgb(255, 255, 255); font-size: 36px; font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #ffffff; text-decoration: none;" href="http://example.com/#1" style="color: rgb(255, 255, 255); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Edit the code</a></h1>
+
+								<p fr-original-style="line-height: 24px; margin: 0; color: #ffffff; font-size: 18px;" style="line-height: 24px; margin: 0px; color: rgb(255, 255, 255); font-size: 18px; box-sizing: border-box;"><a fr-original-style="color: #ffffff; text-decoration: none;" href="http://example.com" style="color: rgb(255, 255, 255); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Click the code tab in the right panel to edit the code behind any component on the canvas.</a></p>
+								<div fr-original-class="sm-h-32" fr-original-style="line-height: 20px;" style="line-height: 20px; box-sizing: border-box;">‌</div>
+
+								<table cellpadding="0" cellspacing="0" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;">
+									<thead fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<th bgcolor="#434190" fr-original-class="hover-bg-indigo-700" fr-original-style="mso-padding-alt: 16px 24px; border-radius: 4px;background:#434190;" style="border-radius: 4px; background: rgb(67, 65, 144); text-align: inherit; box-sizing: border-box; user-select: text;"><a fr-original-style="display: block; font-weight: 600; line-height: 100%; padding-top: 16px; padding-bottom: 16px; padding-left: 24px; padding-right: 24px; color: #ffffff; font-size: 16px; text-decoration: none;" href="http://example.com/#1" style="display: block; font-weight: 600; line-height: 100%; padding: 16px 24px; color: rgb(255, 255, 255); font-size: 16px; text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Read more →</a></th>
+										</tr>
+									</thead>
+								</table>
+							</td>
+						</tr>
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td fr-original-class="sm-h-32" fr-original-style="" height="64" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+								<br fr-original-style="" style="box-sizing: border-box;">
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<!--[if mso]></div></v:rect><![endif]-->
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" fr-original-class="all-font-sans sm-w-full" fr-original-style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px;" style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="600">
+	<tbody fr-original-style="" style="box-sizing: border-box;">
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td bgcolor="#ffffff" fr-original-class="sm-pb-0" fr-original-style="border-radius: 8px; padding-top: 40px; padding-bottom: 0px;" style="border-radius: 8px; padding-top: 40px; padding-bottom: 0px; min-width: 5px; box-sizing: border-box; user-select: text;">
+
+				<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full sm-pb-16 sm-px-24" fr-original-style="padding-left: 34px; padding-right: 8px;" style="padding-left: 34px; padding-right: 8px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="200">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;" width="100%">
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-1-3" fr-original-style="margin-bottom: 10px;" style="margin-bottom: 10px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+												<a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#1" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="165" src="https://images.unsplash.com/photo-1562157646-4303261af91e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60" style="border: 0px; line-height: 100%; border-radius: 4px; cursor: pointer; max-width: 100%; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle; border-radius: 4px;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+										</tr>
+									</tbody>
+								</table>
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-2-3 sm-pl-16" fr-original-style="padding-left: 2px; padding-right: 2px;" style="padding-left: 2px; padding-right: 2px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+												<h4 fr-original-style="margin: 0; margin-bottom: 2px; color: #2d3748;" style="margin: 0px 0px 2px; color: rgb(45, 55, 72); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#1" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Sport Watch</a></h4>
+
+												<p fr-original-style="line-height: 18px; margin: 0; margin-bottom: 10px; color: #718096; font-size: 14px;" style="line-height: 18px; margin: 0px 0px 10px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;"><a fr-original-style="color: #718096; text-decoration: none;" href="http://example.com/#1" style="color: rgb(113, 128, 150); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Stylish and waterproof with black strap and green leaves.</a></p>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<!--[if mso]></td><td width="200" align="left"><![endif]-->
+
+				<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full sm-pb-16 sm-px-24" fr-original-style="padding-left: 16px; padding-right: 16px;" style="padding-left: 16px; padding-right: 16px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="200">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;" width="100%">
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-1-3" fr-original-style="margin-bottom: 10px;" style="margin-bottom: 10px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+												<a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#2" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="165" src="https://images.unsplash.com/photo-1571398159775-07de36363b79?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60" style="border: 0px; line-height: 100%; border-radius: 4px; cursor: pointer; max-width: 100%; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle; border-radius: 4px;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+										</tr>
+									</tbody>
+								</table>
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-2-3 sm-pl-16" fr-original-style="padding-left: 2px; padding-right: 2px;" style="padding-left: 2px; padding-right: 2px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+												<h4 fr-original-style="margin: 0; margin-bottom: 2px; color: #2d3748;" style="margin: 0px 0px 2px; color: rgb(45, 55, 72); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#2" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Phone Charm</a></h4>
+
+												<p fr-original-style="line-height: 18px; margin: 0; margin-bottom: 10px; color: #718096; font-size: 14px;" style="line-height: 18px; margin: 0px 0px 10px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;"><a fr-original-style="color: #718096; text-decoration: none;" href="http://example.com/#2" style="color: rgb(113, 128, 150); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Decorate your phone with a green leaf and pink background.</a></p>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<!--[if mso]></td><td width="200" align="left"><![endif]-->
+
+				<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full sm-pb-16 sm-px-24" fr-original-style="padding-right: 34px;" style="padding-right: 34px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="200">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;" width="100%">
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-1-3" fr-original-style="margin-bottom: 10px;" style="margin-bottom: 10px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+												<a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#3" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="165" src="https://images.unsplash.com/photo-1560219071-4dc9557e1a26?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60" style="border: 0px; line-height: 100%; border-radius: 4px; cursor: pointer; max-width: 100%; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle; border-radius: 4px;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+										</tr>
+									</tbody>
+								</table>
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-2-3 sm-pl-16" fr-original-style="padding-left: 2px; padding-right: 2px;" style="padding-left: 2px; padding-right: 2px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+												<h4 fr-original-style="margin: 0; margin-bottom: 2px; color: #2d3748;" style="margin: 0px 0px 2px; color: rgb(45, 55, 72); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#3" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Phone Set</a></h4>
+
+												<p fr-original-style="line-height: 18px; margin: 0; margin-bottom: 10px; color: #718096; font-size: 14px;" style="line-height: 18px; margin: 0px 0px 10px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;"><a fr-original-style="color: #718096; text-decoration: none;" href="http://example.com/#3" style="color: rgb(113, 128, 150); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Phone positioned diagnally with plug and black VIP card.</a></p>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td bgcolor="#ffffff" fr-original-class="sm-pt-0" fr-original-style="border-radius: 8px; padding-top: 40px; padding-bottom: 30px;" style="border-radius: 8px; padding-top: 40px; padding-bottom: 30px; min-width: 5px; box-sizing: border-box; user-select: text;">
+
+				<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full sm-pb-16 sm-px-24" fr-original-style="padding-left: 34px; padding-right: 8px;" style="padding-left: 34px; padding-right: 8px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="200">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;" width="100%">
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-1-3" fr-original-style="margin-bottom: 10px;" style="margin-bottom: 10px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+												<a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#4" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="165" src="https://images.unsplash.com/photo-1566355892398-3d144894ef0a?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60" style="border: 0px; line-height: 100%; border-radius: 4px; cursor: pointer; max-width: 100%; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle; border-radius: 4px;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+										</tr>
+									</tbody>
+								</table>
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-2-3 sm-pl-16" fr-original-style="padding-left: 2px; padding-right: 2px;" style="padding-left: 2px; padding-right: 2px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+												<h4 fr-original-style="margin: 0; margin-bottom: 2px; color: #2d3748;" style="margin: 0px 0px 2px; color: rgb(45, 55, 72); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#4" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Notebook and Pen</a></h4>
+
+												<p fr-original-style="line-height: 18px; margin: 0; margin-bottom: 10px; color: #718096; font-size: 14px;" style="line-height: 18px; margin: 0px 0px 10px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;"><a fr-original-style="color: #718096; text-decoration: none;" href="http://example.com/#4" style="color: rgb(113, 128, 150); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Black notebook with a golden pen resting gently on its surface.</a></p>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<!--[if mso]></td><td width="200" align="left"><![endif]-->
+
+				<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full sm-pb-16 sm-px-24" fr-original-style="padding-left: 16px; padding-right: 16px;" style="padding-left: 16px; padding-right: 16px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="200">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;" width="100%">
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-1-3" fr-original-style="margin-bottom: 10px;" style="margin-bottom: 10px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+												<a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#5" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="165" src="https://images.unsplash.com/photo-1557180295-76eee20ae8aa?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60" style="border: 0px; line-height: 100%; border-radius: 4px; cursor: pointer; max-width: 100%; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle; border-radius: 4px;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+										</tr>
+									</tbody>
+								</table>
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-2-3 sm-pl-16 sm-mb-16" fr-original-style="padding-left: 2px; padding-right: 2px;" style="padding-left: 2px; padding-right: 2px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+												<h4 fr-original-style="margin: 0; margin-bottom: 2px; color: #2d3748;" style="margin: 0px 0px 2px; color: rgb(45, 55, 72); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#5" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Dream Telephone</a></h4>
+
+												<p fr-original-style="line-height: 18px; margin: 0; margin-bottom: 10px; color: #718096; font-size: 14px;" style="line-height: 18px; margin: 0px 0px 10px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;"><a fr-original-style="color: #718096; text-decoration: none;" href="http://example.com/#5" style="color: rgb(113, 128, 150); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Yellow telephone positioned centrally on a yellow background.</a></p>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<!--[if mso]></td><td width="200" align="left"><![endif]-->
+
+				<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full sm-pb-16 sm-px-24" fr-original-style="padding-right: 34px;" style="padding-right: 34px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="200">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;" width="100%">
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-1-3" fr-original-style="margin-bottom: 10px;" style="margin-bottom: 10px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+												<a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#6" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="165" src="https://images.unsplash.com/photo-1573717500275-c1f3fb461a3d?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60" style="border: 0px; line-height: 100%; border-radius: 4px; cursor: pointer; max-width: 100%; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle; border-radius: 4px;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+										</tr>
+									</tbody>
+								</table>
+
+								<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-2-3 sm-pl-16" fr-original-style="padding-left: 2px; padding-right: 2px;" style="padding-left: 2px; padding-right: 2px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="100%">
+									<tbody fr-original-style="" style="box-sizing: border-box;">
+										<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+											<td align="left" fr-original-style="" style="min-width: 5px; box-sizing: border-box; user-select: text;">
+
+												<h4 fr-original-style="margin: 0; margin-bottom: 2px; color: #2d3748;" style="margin: 0px 0px 2px; color: rgb(45, 55, 72); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#6" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Baby Listener</a></h4>
+
+												<p fr-original-style="line-height: 18px; margin: 0; margin-bottom: 10px; color: #718096; font-size: 14px;" style="line-height: 18px; margin: 0px 0px 10px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;"><a fr-original-style="color: #718096; text-decoration: none;" href="http://example.com/#6" style="color: rgb(113, 128, 150); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Sleep peacefully by monitoring your baby with this fantastic headset.</a></p>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" fr-original-class="all-font-sans sm-w-full" fr-original-style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px;" style="border-radius: 4px; margin-left: auto; margin-right: auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="600">
+	<tbody fr-original-style="" style="box-sizing: border-box;">
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td bgcolor="#ffffff" fr-original-class="sm-px-24" fr-original-style="border-radius: 8px; padding-top: 40px;padding-left:48px; padding-right:40px; padding-bottom: 0;" style="border-radius: 8px; padding: 40px 40px 0px 48px; min-width: 5px; box-sizing: border-box; user-select: text;">
+				<!--[if (gte mso 9)|(IE)]> <table width="520" border="0" cellspacing="0" cellpadding="0"><tr><td width="256" valign="top"><![endif]-->
+
+				<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full sm-py-10" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="256">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="center" fr-original-style="vertical-align: top;" style="vertical-align: top; min-width: 5px; box-sizing: border-box; user-select: text;" valign="top" width="56">
+								<a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#1" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="56" src="https://ph-files.imgix.net/5fed7188-aa37-441e-8a51-db7a1f0a232d?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=80&amp;h=80&amp;fit=crop&amp;dpr=2" style="border: 0px; line-height: 100%; border-radius: 4px; cursor: pointer; max-width: 100%; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle; border-radius: 4px;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+							<td align="left" fr-original-style="padding-left: 15px; padding-right:20px; vertical-align: top;" style="padding-left: 15px; padding-right: 20px; vertical-align: top; min-width: 5px; box-sizing: border-box; user-select: text;" valign="top" width="200">
+
+								<h4 fr-original-style="margin: 0; margin-bottom: 4px; color: #2d3748;" style="margin: 0px 0px 4px; color: rgb(45, 55, 72); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#1" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Women Make</a></h4>
+
+								<p fr-original-style="line-height: 18px; margin: 0; margin-bottom: 10px; color: #718096; font-size: 14px;" style="line-height: 18px; margin: 0px 0px 10px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;"><a fr-original-style="color: #718096; text-decoration: none;" href="http://example.com/#1" style="color: rgb(113, 128, 150); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Connect with other women makers 👱🏻‍♀️👩🏾‍🦱👩🏻</a></p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<!--[if (gte mso 9)|(IE)]> </td><td width="50%" valign="top"><![endif]-->
+
+				<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full sm-py-10" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="256">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="center" fr-original-style="vertical-align: top;" style="vertical-align: top; min-width: 5px; box-sizing: border-box; user-select: text;" valign="top" width="56">
+								<a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#2" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="56" src="https://ph-files.imgix.net/dc15a092-2944-460a-b650-295ac7fb6e46?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=80&amp;h=80&amp;fit=crop&amp;dpr=2" style="border: 0px; line-height: 100%; border-radius: 4px; cursor: pointer; max-width: 100%; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle; border-radius: 4px;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+							<td align="left" fr-original-style="padding-left: 15px; padding-right:20px; vertical-align: top;" style="padding-left: 15px; padding-right: 20px; vertical-align: top; min-width: 5px; box-sizing: border-box; user-select: text;" valign="top" width="200">
+
+								<h4 fr-original-style="margin: 0; margin-bottom: 4px; color: #2d3748;" style="margin: 0px 0px 4px; color: rgb(45, 55, 72); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#2" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Unicorn Platform</a></h4>
+
+								<p fr-original-style="line-height: 18px; margin: 0; margin-bottom: 10px; color: #718096; font-size: 14px;" style="line-height: 18px; margin: 0px 0px 10px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;"><a fr-original-style="color: #718096; text-decoration: none;" href="http://example.com/#2" style="color: rgb(113, 128, 150); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Simple landing page builder for startups 🦄</a></p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<!--[if (gte mso 9)|(IE)]> </td></tr></table><![endif]--></td>
+		</tr>
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td bgcolor="#ffffff" fr-original-class="sm-pt-10 sm-px-24" fr-original-style="border-radius: 8px; padding:40px;padding-left:48px;" style="border-radius: 8px; padding: 40px 40px 40px 48px; min-width: 5px; box-sizing: border-box; user-select: text;">
+				<!--[if (gte mso 9)|(IE)]> <table width="520" border="0" cellspacing="0" cellpadding="0"><tr><td width="256" align="left" valign="top"><![endif]-->
+
+				<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full sm-py-10" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="256">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="center" fr-original-style="vertical-align: top;" style="vertical-align: top; min-width: 5px; box-sizing: border-box; user-select: text;" valign="top" width="56">
+								<a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#3" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="55" src="https://ph-files.imgix.net/215bebf2-d303-4d09-ba47-251553241d02?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=80&amp;h=80&amp;fit=crop&amp;dpr=2" style="border: 0px; line-height: 100%; border-radius: 4px; cursor: pointer; max-width: 100%; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle; border-radius: 4px;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+							<td align="left" fr-original-style="padding-left: 15px; padding-right: 15px; vertical-align: top;" style="padding-left: 15px; padding-right: 15px; vertical-align: top; min-width: 5px; box-sizing: border-box; user-select: text;" valign="top" width="200">
+
+								<h4 fr-original-style="margin: 0; margin-bottom: 4px; color: #2d3748;" style="margin: 0px 0px 4px; color: rgb(45, 55, 72); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#3" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Really Good Emails</a></h4>
+
+								<p fr-original-style="line-height: 18px; margin: 0; margin-bottom: 10px; color: #718096; font-size: 14px;" style="line-height: 18px; margin: 0px 0px 10px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;"><a fr-original-style="color: #718096; text-decoration: none;" href="http://example.com/#3" style="color: rgb(113, 128, 150); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Really good curated email design and code inspiration</a></p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<!--[if (gte mso 9)|(IE)]> </td><td width="300" align="left" valign="top"><![endif]-->
+
+				<table align="left" cellpadding="0" cellspacing="0" fr-original-class="sm-w-full sm-py-10" fr-original-style="" style="border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="256">
+					<tbody fr-original-style="" style="box-sizing: border-box;">
+						<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+							<td align="center" fr-original-style="vertical-align: top;" style="vertical-align: top; min-width: 5px; box-sizing: border-box; user-select: text;" valign="top" width="56">
+								<a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#4" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;"><img width="55" src="https://ph-files.imgix.net/0a7aed83-9573-44cf-a149-9eb9ebea13a9?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=80&amp;h=80&amp;fit=crop&amp;dpr=2" style="border: 0px; line-height: 100%; border-radius: 4px; cursor: pointer; max-width: 100%; box-sizing: border-box;" alt="" fr-original-style="border: 0px; line-height: 100%; vertical-align: middle; border-radius: 4px;" fr-original-class="fr-draggable" class="fr-fic fr-dii"></a></td>
+							<td align="left" fr-original-style="padding-left: 15px;padding-right: 15px; vertical-align: top;" style="padding-left: 15px; padding-right: 15px; vertical-align: top; min-width: 5px; box-sizing: border-box; user-select: text;" valign="top" width="200">
+
+								<h4 fr-original-style="margin: 0; margin-bottom: 4px; color: #2d3748;" style="margin: 0px 0px 4px; color: rgb(45, 55, 72); font-weight: 500; box-sizing: border-box;"><a fr-original-style="color: #2d3748; text-decoration: none;" href="http://example.com/#4" style="color: rgb(45, 55, 72); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Email Love</a></h4>
+
+								<p fr-original-style="line-height: 18px; margin: 0; margin-bottom: 10px; color: #718096; font-size: 14px;" style="line-height: 18px; margin: 0px 0px 10px; color: rgb(113, 128, 150); font-size: 14px; box-sizing: border-box;"><a fr-original-style="color: #718096; text-decoration: none;" href="http://example.com/#4" style="color: rgb(113, 128, 150); text-decoration: none; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Email design inspiration, templates and discovery</a></p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<!--[if (gte mso 9)|(IE)]> </td></tr></table><![endif]--></td>
+		</tr>
+	</tbody>
+</table>
+
+<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" fr-original-class="all-font-sans sm-w-full sm-px-24" fr-original-style="border-radius: 4px; margin-left: auto; margin-right: auto; padding: 48px; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px;" style="border-radius: 4px; margin-left: auto; margin-right: auto; padding: 48px; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px; margin-top: 15px; border-collapse: collapse; border: none; empty-cells: show; max-width: 100%; box-sizing: border-box;" width="600">
+	<tbody fr-original-style="" style="box-sizing: border-box;">
+		<tr fr-original-style="" style="user-select: none; box-sizing: border-box;">
+			<td fr-original-class="sm-block sm-w-full" fr-original-style="line-height: 26px;" style="line-height: 26px; min-width: 5px; box-sizing: border-box; user-select: text;" width="50%">
+
+				<p fr-original-style="margin: 0; color: #718096; font-size: 12px;" style="margin: 0px; color: rgb(113, 128, 150); font-size: 12px; box-sizing: border-box;">Made with <span fr-original-style="" style="box-sizing: border-box;">♥</span> in <a fr-original-class="hover-no-underline" fr-original-style="color: #718096; text-decoration: underline;" href="#" style="color: rgb(113, 128, 150); text-decoration: underline; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Letter</a></p>
+
+				<p fr-original-style="margin: 0; color: #718096; font-size: 12px;" style="margin: 0px; color: rgb(113, 128, 150); font-size: 12px; box-sizing: border-box;"><a fr-original-class="hover-no-underline" fr-original-style="color: #718096; text-decoration: underline;" href="#" style="color: rgb(113, 128, 150); text-decoration: underline; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Letter, Email for Creators.</a></p>
+
+				<p fr-original-style="margin: 0; color: #718096; font-size: 12px;" style="margin: 0px; color: rgb(113, 128, 150); font-size: 12px; box-sizing: border-box;">Blackpool, UK</p>
+			</td>
+			<td align="right" fr-original-class="sm-block sm-w-full sm-text-left sm-pt-24" fr-original-style="text-align: right; vertical-align: top;" style="text-align: right; vertical-align: top; min-width: 5px; box-sizing: border-box; user-select: text;" valign="top" width="50%"><a fr-original-class="hover-no-underline" fr-original-style="color: #718096; font-size: 12px; text-decoration: underline;" href="https://maizzle.com" style="color: rgb(113, 128, 150); font-size: 12px; text-decoration: underline; background-color: initial; outline: none; cursor: pointer; transition: color 0.3s ease 0s; touch-action: manipulation; user-select: auto; box-sizing: border-box;">Unsubscribe</a></td>
+		</tr>
+	</tbody>
+</table>
